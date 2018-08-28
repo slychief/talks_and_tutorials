@@ -16,6 +16,6 @@ Website: http://ifs.tuwien.ac.at/~schindler<br>Twitter: https://twitter.com/Slyc
 
 | Date       | Event | Description | Link |
 |:----------:|:-----:|:-----------:|:----:|
-| 2017-05-16 | TU-Vienna Lecture | Advanced Information Retrieval | [more](.content/2017-05-16_Advanced_Information_Retrieval) |
+| 2017-05-16 | TU-Vienna Lecture | Advanced Information Retrieval | [more](./content/2017-05-16_Advanced_Information_Retrieval/) |
 | 2018-03-23 | Machine Learning Prague [(ML-Prague)](https://2018.mlprague.com/) | Workshop: "Deep Learning for Music Classification using Keras" | [more](https://github.com/slychief/mlprague2018_tutorial) |
 | 2018-09-23 | 19th International Society for Music Information Retrieval Conference [(ISMIR 2018)](http://ismir2018.ircam.fr/) | Tutorial: "Deep Learning for MIR" | TBA |
