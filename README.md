@@ -2,16 +2,18 @@
 
 (c) 2018 by Alexander Schindler
 
-**Alexander Schindler**, AIT Austrian Institute of Technology<br>
-Website: http://ifs.tuwien.ac.at/~schindler<br>
-Twitter: https://twitter.com/Slychief
+<img height="200px" src="http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg" style="float: right;">
 
-Alexander Schindler researches audio-visual aspects of music information. He is
-currently employed as a researcher with the Vienna University of Technology and as scientist at the Austrian
-Institute of Technology (AIT). He has specialized on applying deep learning methods to analyze music related
-information in visual media such as music videos or album-art images, as well as sound event detection and
-audio similarity estimations. His research interests include information retrieval, specifically audio and video
-retrieval, image processing and machine learning with a focus on deep neural networks.
+**Alexander Schindler**, AIT Austrian Institute of Technology<br>
+
+Alexander Schindler researches audio-visual aspects of music information. He is currently employed as a researcher with the Vienna University of Technology and as scientist at the Austrian Institute of Technology (AIT). He has specialized on applying deep learning methods to analyze music related information in visual media such as music videos or album-art images, as well as sound event detection and audio similarity estimations. His research interests include information retrieval, specifically audio and video retrieval, image processing and machine learning with a focus on deep neural networks.
+
+Website: http://ifs.tuwien.ac.at/~schindler<br>
+Twitter: https://twitter.com/Slychief<br>
+
+LinkedIn: https://www.linkedin.com/in/schindleralexander<br>
+
+
 
 # Overview
 
