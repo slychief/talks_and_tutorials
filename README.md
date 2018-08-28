@@ -2,7 +2,7 @@
 
 (c) 2018 by Alexander Schindler
 
-<img height="200px" src="http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg" style="float: right;">
+<img height="200px" src="http://www.ifs.tuwien.ac.at/~schindler/vdlm/assets/images/hqakstdk-400x4001-400x400.jpg" align="left">
 
 **Alexander Schindler**, AIT Austrian Institute of Technology<br>
 
