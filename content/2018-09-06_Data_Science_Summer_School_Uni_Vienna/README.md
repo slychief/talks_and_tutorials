@@ -10,7 +10,7 @@ also visit: https://www.meetup.com/Vienna-Deep-Learning-Meetup
 
 # Abstract
 
-This is an introduction to Music Information Retrieval (MIR) ...
+This is an introduction to Music Information Retrieval (MIR) and audio anlysis in general. The first part of the tutorial - an introduction to MIR - will be presented using the provided slide-deck. The second part introduces to basics of audio processing in Python. In Part 3 deep learning approaches to music classification tasks are presented.
 
 # Tutorial Outline
 
