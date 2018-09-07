@@ -14,20 +14,20 @@ This is an introduction to Music Information Retrieval (MIR) and audio anlysis i
 
 # Tutorial Outline
 
-**Part 1 - Music Information Retrieval (MIR)** ([Slides](https://github.com/slychief/mlprague2018_tutorial/blob/master/Tutorial%20Slides/Part%201%20-%20Basics%20of%20digital%20audio%20and%20deep%20learning.pdf))
+**Part 1 - Music Information Retrieval (MIR)** ([Slides](Part1_Music_Information_Retrieval.pdf))
 
   * What is Music Information Retrieval?
   * Audio/Music Feature Extraction
   * Deep Learning for Audio
   * Research in Audio Analysis and MIR
 
-**Part 2 - Audio Processing Basics** ([Slides](https://github.com/slychief/mlprague2018_tutorial/blob/master/Tutorial%20Slides/Part%202%20-%20Introduction%20to%20CNNs.pdf))
+**Part 2 - Audio Processing Basics** ([Jupyter Notebook](.content/2018-09-06_Data_Science_Summer_School_Uni_Vienna/))
 
   * Audio Processing in Python
   * Processing audio
   * Extracting features
 
-**Part 3 - Instrumental, Genre and Mood Analysis** ([Slides](https://github.com/slychief/mlprague2018_tutorial/blob/master/Tutorial%20Slides/Part%203%20-%20Music%20AI%20at%20Musimap.pdf))
+**Part 3 - Instrumental, Genre and Mood Analysis** ([Jupyter Notebook](./content/2018-09-06_Data_Science_Summer_School_Uni_Vienna/Part2_Audio_Basics.ipynb))
 
   * Instrumental vs. Vocal Detection
   * Genre Recognition
