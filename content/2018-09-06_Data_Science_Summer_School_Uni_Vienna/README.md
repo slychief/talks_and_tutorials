@@ -1,4 +1,4 @@
-# Deep Learning for Music Classification using Keras
+# Introduction to Music Information Retrieval and Deep Learning for Music and Audio
 
 (c) 2018 by
 
