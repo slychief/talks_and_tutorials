@@ -21,24 +21,23 @@ This is an introduction to Music Information Retrieval (MIR) and audio anlysis i
   * Deep Learning for Audio
   * Research in Audio Analysis and MIR
 
-**Part 2 - Audio Processing Basics** ([Jupyter Notebook](.content/2018-09-06_Data_Science_Summer_School_Uni_Vienna/))
+**Part 2 - Audio Processing Basics** ([Jupyter Notebook](Part2_Audio_Basics.ipynb))
 
   * Audio Processing in Python
   * Processing audio
   * Extracting features
 
-**Part 3 - Instrumental, Genre and Mood Analysis** ([Jupyter Notebook](./content/2018-09-06_Data_Science_Summer_School_Uni_Vienna/Part2_Audio_Basics.ipynb))
+**Part 3 - Instrumental, Genre and Mood Analysis** ([Jupyter Notebook](Part3_Instrumental_Genre_Mood_detection.ipynb))
 
   * Instrumental vs. Vocal Detection
   * Genre Recognition
   * Mood Detection
-  * Coding Examples ([Jupyter Notebook](https://github.com/slychief/mlprague2018_tutorial/blob/master/Part%203%20-%20Instrumental%20-%20Genre%20-%20Mood%20detection.ipynb))
 
 
 
 # Tutorial Requirements
 
-For the tutorials, we use iPython / Jupyter notebook, which allows to program and execute Python code interactively in the browser.
+For the code tutorials, we use iPython / Jupyter notebook, which allows to program and execute Python code interactively in the browser.
 
 ### Viewing Only
 
@@ -50,7 +49,7 @@ The tutorials will open in your browser for viewing.
 
 If you want to follow the tutorials by actually executing the code on your computer, please [install first the pre-requisites](#installation-of-pre-requisites) as described below.
 
-After that, to run the tutorials go into the `mlprague2018_tutorial` folder and start from the command line:
+After that, to run the tutorials go into the `2018-09-06_Data_Science_Summer_School_Uni_Vienna` folder and start from the command line:
 
 `jupyter notebook`
 
@@ -134,11 +133,6 @@ These are prepared versions from the original datasets described below.
 
 
 # Credits
-
-The following helper Python libraries are used in these tutorials:
-
-* `audiofile_read.py` and `audio_spectrogram.py`: by Thomas Lidy and Alexander Schindler, taken from the [RP_extract](https://github.com/tuwien-musicir/rp_extract) git repository
-* `wavio.py`: by Warren Weckesser
 
 The data sets we use in the tutorials are from the following sources:
 
