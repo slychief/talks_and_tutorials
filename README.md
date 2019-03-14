@@ -19,12 +19,17 @@ Website: http://ifs.tuwien.ac.at/~schindler<br>Twitter: https://twitter.com/Slyc
 | 2019-03-13 | Vienna Cyber Security Days 2019 | Invited talk: "Artificial Intelligence & Security" | [more](./content/2019-03-13_VCSW/) |
 | 2019-01-30 | Innovationslehrgang TechFM4.0 | KI Methoden Einführung / Grundlagen experimentellen Designs | [more](./content/2019-01-30_TechFM4.0/) |
 | 2019-01-09 | Multimedia Modelling (MMM2019) | Paper presentation "Large-scale audio-visual video analytics platform for forensic investigations of terroristic attacks" | [more](./content/2019-01-09_MMM19/) |
-| 2019-01-09 | Multimedia Modelling (MMM2019) | Poster presentation "On the unsolved problem of shot boundary detection in music videos" | [more](./content/2019-01-09_MMM19_2/) |
+| 2019-01-09 | Multimedia Modelling (MMM2019) | Poster presentation "On the unsolved problem of shot boundary detection for music videos" | [more](./content/2019-01-09_MMM19_2/) |
 | 2018-09-23 | 19th International Society for Music Information Retrieval Conference [(ISMIR 2018)](http://ismir2018.ircam.fr/) | Tutorial: "Deep Learning for MIR" | [more](https://github.com/slychief/ismir2018_tutorial) |
 | 2018-09-06 | 2nd International summer school on "Deep Learning and Visual Data Analysis" | Introduction to Music Information Retrieval and Deep Learning for music and audio | [more](./content/2018-09-06_Data_Science_Summer_School_Uni_Vienna) |
 | 2018-09-04 | Innovationslehrgang Data Science und Deep Learning ([iDSDL](http://www.ifs.tuwien.ac.at/idsdl/)) | From Computational Thinking to Experiment Design to Data Centered Programming | [more](./content/2018-09-04_iDSDL_Datascience_Fundamentals) |
+| 2018-06-25 | Austro-European Security Research Innovation Days inkl. 8. KIRAS-Fachtagung | Invited Poster presentation "FLORIDA" | [more](./content/2018-06-25_KIRAS/) |
 | 2018-03-23 | Machine Learning Prague [(ML-Prague)](https://2018.mlprague.com/) | Workshop: "Deep Learning for Music Classification using Keras" | [more](https://github.com/slychief/mlprague2018_tutorial) |
-| 2017-06-08 | Forum Media Technology (FMT2017) | Paper presentation "Fashion and Apparel Classification using Convolutional Neural Networks" | [more](./content/2017-06-08_FMT2017/) |
+| 2017-11-16 | Detection and Classification of Acoustic Scenes and Events Workshop (DCASE2017) | Poster presentation "Multi Temporal resolution Convolutional Neural Networks for Acoustic Scene Classification" | [more](./content/2017-11-16_DCASE/) |
+| 2017-06-08 | Forum Media Technology (FMT2017) | Paper presentation "Fashion and Apparel Classification using Convolutional Neural Networks" | [more](./content/2017-11-16_DCASE/) |
 | 2017-05-16 | TU-Vienna Lecture | Advanced Information Retrieval | [more](./content/2017-05-16_Advanced_Information_Retrieval/) |
+| 2016-10-25 | EuroMED Conference 2016 | Paper presentation "The Europeana Music Information Retrieval Prototype" | [more](./content/2016-10-25_EuroMED/) |
+| 2017-08-31 | Detection and Classification of Acoustic Scenes and Events Workshop (DCASE2016) | Poster presentation "CQT-based Convolutional Neural Networks for Audio Scene Classification and Domestic Audio Tagging" | [more](./content/2016-08-31_DCASE/) |
+| 2015-03-25 | European Conference on Information Retrieval (ECIR2015) | Poster presentation "An Audio-Visual Approach to Music Genre Classification through Affective Color Features" | [more](./content/2015-03-25_ECIR/) |
 | 2015-03-01 | Europeana Sounds Project | Score Following / Audio to Score alignment from scanned score using Optical Music Recognition (OMR) in Python | [more](./content/2015-03-01_Score_Following/) |
 
