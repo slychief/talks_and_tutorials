@@ -17,11 +17,16 @@ Website: http://ifs.tuwien.ac.at/~schindler<br>Twitter: https://twitter.com/Slyc
 | Date       | Event | Description | Link |
 |:----------:|:-----:|:-----------:|:----:|
 | 2019-03-13 | Vienna Cyber Security Days 2019 | Invited talk: "Artificial Intelligence & Security" | [more](./content/2019-03-13_VCSW/) |
+| 2019-01-31 | 23. Vienna Deep Learning Meetup | Explainable Deep Learning / NeurIPS Report | [more](https://github.com/vdlm/meetups/blob/master/Meetups/Meetup_23) |
 | 2019-01-30 | Innovationslehrgang TechFM4.0 | KI Methoden Einführung / Grundlagen experimentellen Designs | [more](./content/2019-01-30_TechFM4.0/) |
 | 2019-01-09 | Multimedia Modelling (MMM2019) | Paper presentation "Large-scale audio-visual video analytics platform for forensic investigations of terroristic attacks" | [more](./content/2019-01-09_MMM19/) |
 | 2019-01-09 | Multimedia Modelling (MMM2019) | Poster presentation "On the unsolved problem of shot boundary detection for music videos" | [more](./content/2019-01-09_MMM19_2/) |
 | 2018-12-19 | Intelligent Audio and Music Analysis (Lecture at TU-Vienna) | Lecture notes "Acoustic Scene Classification and Event Detection" | [more](./content/2018-12-19_Intelligent_Audio_and_Music_Analysis) |
+| 2018-11-12 | 22. Vienna Deep Learning Meetup | Video Surveillance / AI strategies in the Austrian government | [more](https://github.com/vdlm/meetups/blob/master/Meetups/Meetup_22) |
+| 2018-10-15 | 21. Vienna Deep Learning Meetup | Music & Audio | [more](https://github.com/vdlm/meetups/blob/master/Meetups/Meetup_21) |
 | 2018-09-23 | 19th International Society for Music Information Retrieval Conference [(ISMIR 2018)](http://ismir2018.ircam.fr/) | Tutorial: "Deep Learning for MIR" | [more](https://github.com/slychief/ismir2018_tutorial) |
+| 2018-10-15 | 20. Vienna Deep Learning Meetup | Reinforcement Learning | [more](https://github.com/vdlm/meetups/blob/master/Meetups/Meetup_20) |
+| 2018-09-18 | 19. Vienna Deep Learning Meetup | Visual Computing | [more](https://github.com/vdlm/meetups/blob/master/Meetups/Meetup_19) |
 | 2018-09-06 | 2nd International summer school on "Deep Learning and Visual Data Analysis" | Introduction to Music Information Retrieval and Deep Learning for music and audio | [more](./content/2018-09-06_Data_Science_Summer_School_Uni_Vienna) |
 | 2018-09-04 | Innovationslehrgang Data Science und Deep Learning ([iDSDL](http://www.ifs.tuwien.ac.at/idsdl/)) | From Computational Thinking to Experiment Design to Data Centered Programming | [more](./content/2018-09-04_iDSDL_Datascience_Fundamentals) |
 | 2018-07-11 | ERCIM Journal | Article "Contextualized Conversational Systems" | [more](./content/2018-07-11_ERCIM/) |
