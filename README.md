@@ -32,4 +32,9 @@ Website: http://ifs.tuwien.ac.at/~schindler<br>Twitter: https://twitter.com/Slyc
 | 2017-08-31 | Detection and Classification of Acoustic Scenes and Events Workshop (DCASE2016) | Poster presentation "CQT-based Convolutional Neural Networks for Audio Scene Classification and Domestic Audio Tagging" | [more](./content/2016-08-31_DCASE/) |
 | 2015-03-25 | European Conference on Information Retrieval (ECIR2015) | Poster presentation "An Audio-Visual Approach to Music Genre Classification through Affective Color Features" | [more](./content/2015-03-25_ECIR/) |
 | 2015-03-01 | Europeana Sounds Project | Score Following / Audio to Score alignment from scanned score using Optical Music Recognition (OMR) in Python | [more](./content/2015-03-01_Score_Following/) |
+| 2013-10-11 | Computer Music, Modelling and Retrieval (CMMR2013) | Poster presentation "A Music Video Information Retrieval Approach to Artist Identification" | [more](./content/2013-10-11_CMMR/) |
+| 2011-10-28 | International Society for Music Information Retrieval Conference [(ISMIR 2011)](https://ismir2011.ismir.net/) | Poster presentation "Million Song Dataset inetegration into the Clubmixer Framework" | [more](./content/2011-10-28_ISMIR/) |
+| 2010-10-24 | International Workshop on Adaptive Multimedia Retrieval (AMR2010) | Paper presentation "Clubmixer: A Presentation Platform for MIR Projects" | [more](./content/2010-10-24_AMR2010/) |
+
+
 
