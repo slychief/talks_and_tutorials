@@ -33,6 +33,8 @@ Website: http://ifs.tuwien.ac.at/~schindler<br>Twitter: https://twitter.com/Slyc
 | 2017-07-11 | BirdCLEF / LifeCLEF 2017 | Paper "A Multi-modal Deep Neural Network approach to Bird-song identification" | [more](./content/2017-07-11_BirdCLEF/) |
 | 2017-06-08 | Forum Media Technology (FMT2017) | Paper presentation "Fashion and Apparel Classification using Convolutional Neural Networks" | [more](./content/2017-11-16_DCASE/) |
 | 2017-05-16 | TU-Vienna Lecture | Advanced Information Retrieval | [more](./content/2017-05-16_Advanced_Information_Retrieval/) |
+| 2017-02-23 | Music Information Retrieval Evaluation Exchange (MIREX2017) | Technical Report / Challenge Submission "Parallel Convolutional Neural Networks for Music Genre and Mood Classification" | [more](./content/2017-02-23_MIREX/) |
+| 2016-10-25 | ACM Transactions on Intelligent and Interactive Systems (TIST) | Journal Paper "Harnessing Music related Visual Stereotypes for Music Information Retrieval" | [more](./content/2016-11-01_TIST/) |
 | 2016-10-25 | EuroMED Conference 2016 | Paper presentation "The Europeana Music Information Retrieval Prototype" | [more](./content/2016-10-25_EuroMED/) |
 | 2016-03-16 | TU-Wien COCOS Workshop | Talk "Music Information Retrieval" | [more](./content/2016-03-16_COCOS/) |
 | 2016-02-23 | Joint Seminar between Austria (FWF) and Taiwan (MOST): Culture- and Location-aware Music Recommendation and Retrieval | Talk "Cross-Cultural Music Perception and Retrieval" | [more](./content/2016-02-22_Seminar_Taipei/) |
