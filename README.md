@@ -1,4 +1,4 @@
-# Tutorials and Teaching materials
+# Presentations, Tutorials and Teaching materials
 
 (c) 2019 by Alexander Schindler
 
