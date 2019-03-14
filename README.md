@@ -34,6 +34,7 @@ Website: http://ifs.tuwien.ac.at/~schindler<br>Twitter: https://twitter.com/Slyc
 | 2017-06-08 | Forum Media Technology (FMT2017) | Paper presentation "Fashion and Apparel Classification using Convolutional Neural Networks" | [more](./content/2017-11-16_DCASE/) |
 | 2017-05-16 | TU-Vienna Lecture | Advanced Information Retrieval | [more](./content/2017-05-16_Advanced_Information_Retrieval/) |
 | 2017-02-23 | Music Information Retrieval Evaluation Exchange (MIREX2017) | Technical Report / Challenge Submission "Parallel Convolutional Neural Networks for Music Genre and Mood Classification" | [more](./content/2017-02-23_MIREX/) |
+| 2016-11-23 | Forum Media Technology (FMT2016) | Paper "Comparing Shallow versus Deep Neural Network Architectures for Automatic Music Genre Classification" | [more](./content/2016-11-23_FMT2016/) |
 | 2016-10-25 | ACM Transactions on Intelligent and Interactive Systems (TIST) | Journal Paper "Harnessing Music related Visual Stereotypes for Music Information Retrieval" | [more](./content/2016-11-01_TIST/) |
 | 2016-10-25 | EuroMED Conference 2016 | Paper presentation "The Europeana Music Information Retrieval Prototype" | [more](./content/2016-10-25_EuroMED/) |
 | 2016-03-16 | TU-Wien COCOS Workshop | Talk "Music Information Retrieval" | [more](./content/2016-03-16_COCOS/) |
@@ -41,6 +42,8 @@ Website: http://ifs.tuwien.ac.at/~schindler<br>Twitter: https://twitter.com/Slyc
 | 2016-02-22 | Joint Seminar between Austria (FWF) and Taiwan (MOST): Culture- and Location-aware Music Recommendation and Retrieval | Talk "Music Video Information Retrieval" | [more](./content/2016-02-22_Seminar_Taipei/) |
 | 2016-08-31 | Detection and Classification of Acoustic Scenes and Events Workshop (DCASE2016) | Poster presentation "CQT-based Convolutional Neural Networks for Audio Scene Classification and Domestic Audio Tagging" | [more](./content/2016-08-31_DCASE/) |
 | 2015-07-27 | Haus der Musik | Talk "Sound & Audio-Visuals" | [more](./content/2015-07-27_Haus_der_Musik/) |
+| 2015-07-10 | OCG Journal | Article "Klingende Bausteine für die Industrie" | [more](./content/2015-07-10_OCG/) |
+| 2018-04-13 | ERCIM Journal | Article "MusicBricks: Connecting Digital Creators to the Internet of Music Things" | [more](./content/2015-04-13_ERCIM/) |
 | 2015-03-25 | European Conference on Information Retrieval (ECIR2015) | Poster presentation "An Audio-Visual Approach to Music Genre Classification through Affective Color Features" | [more](./content/2015-03-25_ECIR/) |
 | 2015-03-01 | Europeana Sounds Project | Score Following / Audio to Score alignment from scanned score using Optical Music Recognition (OMR) in Python | [more](./content/2015-03-01_Score_Following/) |
 | 2013-10-11 | Computer Music, Modelling and Retrieval (CMMR2013) | Poster presentation "A Music Video Information Retrieval Approach to Artist Identification" | [more](./content/2013-10-11_CMMR/) |
