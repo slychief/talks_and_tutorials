@@ -16,6 +16,7 @@ Website: http://ifs.tuwien.ac.at/~schindler<br>Twitter: https://twitter.com/Slyc
 
 | Date       | Event | Description | Link |
 |:----------:|:-----:|:-----------:|:----:|
+| 2019-11-06 | Digital Days Vienna 2019 | Introduction to Artificial Intelligence and its application in Safety & Security | [more](./content/2019-11-06_Digital_Days/) |
 | 2019-05-24 | Innovationslehrgang Data Science und Deep Learning ([iDSDL](http://www.ifs.tuwien.ac.at/idsdl/)) | Deep Learning Application Examples | [more](./content/2019-05-24_iDSDL_Deep_Learning_Application_Examples/) |
 | 2019-04-26 | Innovationslehrgang Data Science und Deep Learning ([iDSDL](http://www.ifs.tuwien.ac.at/idsdl/)) | Deep Learning Software Tools and Frameworks | [more](./content/2019-04-26_iDSDL_Deep_Learning_SW_and_HW_Frameworks/) |
 | 2019-03-13 | Vienna Cyber Security Days 2019 | Invited talk: "Artificial Intelligence & Security" | [more](./content/2019-03-13_VCSW/) |
