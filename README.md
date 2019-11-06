@@ -6,7 +6,7 @@
 
 **Alexander Schindler**, AIT Austrian Institute of Technology<br>
 
-Alexander Schindler researches audio-visual aspects of music information. He is currently employed as a researcher with the Vienna University of Technology and as scientist at the Austrian Institute of Technology (AIT). He has specialized on applying deep learning methods to analyze music related information in visual media such as music videos or album-art images, as well as sound event detection and audio similarity estimations. His research interests include information retrieval, specifically audio and video retrieval, image processing and machine learning with a focus on deep neural networks.
+I am researching audio-visual aspects of music or acoustic information in general. I am currently employed as scientist at the Austrian Institute of Technology (AIT) and part-time as researcher at the Vienna University of Technology. I am specialized in applying deep learning methods to multi-modal approaches to music-related content analysis including music videos or album-art images, as well as sound event detection and audio similarity estimations. My research interests include information retrieval, specifically audio and video retrieval, image processing and machine learning with a focus on deep neural networks.
 
 Website: http://ifs.tuwien.ac.at/~schindler<br>Twitter: https://twitter.com/Slychief<br>LinkedIn: https://www.linkedin.com/in/schindleralexander<br>
 
