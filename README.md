@@ -16,7 +16,7 @@ Website: http://ifs.tuwien.ac.at/~schindler<br>Twitter: https://twitter.com/Slyc
 
 | Date       | Event | Description | Link |
 |:----------:|:-----:|:-----------:|:----:|
-| 2019-11-25 | AIT Seminar | State of the Art in Fake News Detection | [more](./content/2019-11-25_AIT_Seminar_Fake_News_SoA/) |
+| 2019-11-25 | AIT Seminar | State of the Art in Fake News Detection (w. Mina Schütz) | [more](./content/2019-11-25_AIT_Seminar_Fake_News_SoA/) |
 | 2019-11-06 | Digital Days Vienna 2019 | Introduction to Artificial Intelligence and its application in Safety & Security | [more](./content/2019-11-06_Digital_Days/) |
 | 2019-10-29 | 30th Vienna Deep Learning Meetup | Fake News. From Shallow to Deep. How to create, detect and fight it. | [more](./content/2019-10-29_VDLM30_Fake_News/) |
 | 2019-10-18 | Rigorosum, TU-Vienna | Multi-Modal Information Retrieval: Augmenting Audio-Analysis with Visual Computing for Improved Music Video Analysis | [more](./content/2019-10-18_defensio/) |
